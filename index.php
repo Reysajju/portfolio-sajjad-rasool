@@ -47,7 +47,7 @@
                 <a href="#blog" class="nav-item nav-link">Blog</a>
                 <a href="#contact" class="nav-item nav-link">Contact</a>
             </div>
-            <a href="https://www.fiverr.com/sajjadsolangi3" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
+            <a href="https://www.upwork.com/freelancers/sajjadr31" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -83,11 +83,11 @@
                     <h3 class="text-white font-weight-normal mb-3">I'm</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Muhammad Sajjad Rasool</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
-                    <div class="typed-text d-none">Web Designer, Web Developer, Front End Developer, Backend Developer, Apps Designer, Apps Developer</div>
+                    <div class="typed-text d-none">CEO and Co-Founder of CallQA, SEO Writer, Web Developer, QA Executive at Intersys LTD, </div>
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
                         <a href="Muhammad Sajjad Rasool.pdf" class="btn btn-outline-light mr-5">Download CV</a>
                         <button type="button" class="btn-play" data-toggle="modal"
-                            data-src="https://www.fiverr.com/sajjadsolangi3" data-target="#videoModal">
+                            data-src="https://www.upwork.com/freelancers/sajjadr31" data-target="#videoModal">
                             <span></span>
                         </button>
                         <h5 class="font-weight-normal text-white m-0 ml-4 d-none d-sm-block">Place Order</h5>
@@ -123,7 +123,7 @@
                         <div class="col-sm-6 py-2"><h6>Address: <span class="text-secondary">Block L, North Nazimabad, Karachi</span></h6></div>
                         <div class="col-sm-6 py-2"><h6>Freelance: <span class="text-secondary">Available</span></h6></div>
                     </div>
-                    <a href="https://www.fiverr.com/sajjadsolangi3" class="btn btn-outline-primary mr-4">Hire Me</a>
+                    <a href="https://www.upwork.com/freelancers/sajjadr31" class="btn btn-outline-primary mr-4">Hire Me</a>
                     <a href="sajjadrasool.online" class="btn btn-outline-primary">Learn More</a>
                 </div>
             </div>
